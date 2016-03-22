@@ -5,4 +5,4 @@ out/
 TRASH/
 .idea/
 SearchInFilenames.iml
-params*
+params.ini
